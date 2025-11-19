@@ -1,6 +1,6 @@
 # DATAVIA
 A data intergrity toolkit
-# CRCRECOVER - Ultimate Disk Sector Data Integrity and Recovery Tool
+# DATAVIA - Ultimate Disk Sector Data Integrity and Recovery Tool
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://www.microsoft.com/windows)
@@ -8,7 +8,7 @@ A data intergrity toolkit
 
 ## 📖 Overview
 
-**CRCRECOVER** is a high-performance C++ tool for disk sector data integrity verification and recovery. It provides comprehensive solutions for:
+**DATAVIA** is a high-performance C++ tool for disk sector data integrity verification and recovery. It provides comprehensive solutions for:
 
 - 🔍 **Data Integrity Verification** - Generate and verify CRC32 checksums for disk sectors
 - 🚀 **High-Performance Processing** - Parallel processing with continuous read operations
@@ -46,24 +46,6 @@ A data intergrity toolkit
 - **CMake 3.10+** for building
 
 ### Installation & Building
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/CRCRECOVER.git
-cd CRCRECOVER
-
-# Create build directory
-mkdir build && cd build
-
-# Configure with CMake
-cmake ..
-
-# Build the project
-cmake --build . --config Release
-
-# Or use make directly
-make -j$(nproc)
-```
 
 ### Available Executables
 - `CRCRECOVER.exe` - Command-line version
