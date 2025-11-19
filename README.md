@@ -1,4 +1,4 @@
-# DATAVIA - Ultimate Disk Sector Data Integrity and Recovery Tool
+# DATAVIA - Disk Sector Data Integrity and Recovery Tool
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://www.microsoft.com/windows)
@@ -268,4 +268,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 **CRCRECOVER** - Your ultimate solution for disk data integrity and recovery. Built with performance, reliability, and user experience in mind.
 
 *"Protecting your data, one sector at a time."*
+
 
