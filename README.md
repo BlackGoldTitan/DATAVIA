@@ -238,8 +238,8 @@ We welcome contributions! Please see our contributing guidelines:
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ```
-CRCRECOVER - Ultimate Disk Sector Data Integrity and Recovery Tool
-Copyright (C) 2025 Your Name
+DATAVIA - Ultimate Disk Sector Data Integrity and Recovery Tool
+Copyright (C) 2025 ZH-NEO BlackGoldTitan
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -265,8 +265,9 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-**CRCRECOVER** - Your ultimate solution for disk data integrity and recovery. Built with performance, reliability, and user experience in mind.
+**DATAVIA** - Your ultimate solution for disk data integrity and recovery. Built with performance, reliability, and user experience in mind.
 
 *"Protecting your data, one sector at a time."*
+
 
 
