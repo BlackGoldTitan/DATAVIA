@@ -264,17 +264,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - **CMake Community** - For excellent build system support
 - **Open Source Contributors** - For inspiration and best practices
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/CRCRECOVER/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/CRCRECOVER/discussions)
-- **Email**: your-email@example.com
-
-## 🔗 Related Projects
-
-- [DiskVerifier](https://github.com/example/diskverifier) - Alternative disk verification tool
-- [SectorRepair](https://github.com/example/sectorrepair) - Sector-level repair utilities
-- [DataIntegrity](https://github.com/example/dataintegrity) - General data integrity tools
 
 ---
 
